@@ -2,6 +2,8 @@
 #include <set>
 using namespace std;
 
+// Find a length of the longest sequence of numbers in the array of integers.
+
 int main() {
 	int a[] = {3, 10, 4, 2, 16, 1, -1, 6, 5};
 	const size_t N = sizeof(a)/sizeof(*a);
